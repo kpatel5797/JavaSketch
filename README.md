@@ -14,4 +14,4 @@ The application also has a customizable palette along with a fixed one, where th
 
 File -> New clears everything on the canvas without saving. File -> Save saves the drawn shapes in a file with a .jsketch extension.
 
-To run the application, just enter the commands gradle build, gradle run, gradle clean on the command line.
+To run the app from command line, please run 'gradle build', 'gradle run', and 'gradle clean' commands.
